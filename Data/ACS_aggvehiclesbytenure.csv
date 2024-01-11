@@ -1,0 +1,172 @@
+﻿NAME,Aggregate number of vehicles available:,Aggregate number of vehicles available_Owner_occupied,Aggregate number of vehicles available_renter_occupied
+"Albany-Schenectady, NY",836047.00,647075.00,188972.00
+"Albuquerque-Santa Fe-Las Vegas, NM",948500.00,759411.00,189089.00
+"Altoona-Huntingdon, PA",127448.00,105324.00,22124.00
+"Amarillo-Pampa-Borger, TX",222856.00,168166.00,54690.00
+"Appleton-Oshkosh-Neenah, WI",329613.00,257855.00,71758.00
+"Asheville-Marion-Brevard, NC",436101.00,337575.00,98526.00
+"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",5054975.00,3809255.00,1245720.00
+"Bend-Prineville, OR",202758.00,155376.00,47382.00
+"Birmingham-Hoover-Talladega, AL",1068805.00,840685.00,228120.00
+"Bloomington-Bedford, IN",161184.00,115582.00,45602.00
+"Bloomington-Pontiac, IL",149219.00,111832.00,37387.00
+"Bloomsburg-Berwick-Sunbury, PA",189567.00,155228.00,34339.00
+"Boise City-Mountain Home-Ontario, ID-OR",722746.00,558907.00,163839.00
+"Boston-Worcester-Providence, MA-RI-NH-CT",5675817.00,4293984.00,1381833.00
+"Bowling Green-Glasgow, KY",181451.00,129507.00,51944.00
+"Brownsville-Harlingen-Raymondville, TX",273897.00,207014.00,66883.00
+"Buffalo-Cheektowaga-Olean, NY",841643.00,652484.00,189159.00
+"Burlington-Fort Madison-Keokuk, IA-IL-MO",95900.00,79832.00,16068.00
+"Burlington-South Burlington-Barre, VT",216511.00,170628.00,45883.00
+"Cape Coral-Fort Myers-Naples, FL",884157.00,694999.00,189158.00
+"Cape Girardeau-Sikeston, MO-IL",107079.00,84178.00,22901.00
+"Cedar Rapids-Iowa City, IA",348707.00,279637.00,69070.00
+"Charleston-Huntington-Ashland, WV-OH-KY",561830.00,453640.00,108190.00
+"Charlotte-Concord, NC-SC",2226779.00,1666033.00,560746.00
+"Chattanooga-Cleveland-Dalton, TN-GA",821117.00,636379.00,184738.00
+"Chicago-Naperville, IL-IN-WI",6299703.00,4890569.00,1409134.00
+"Cincinnati-Wilmington-Maysville, OH-KY-IN",1770142.00,1399076.00,371066.00
+"Cleveland-Akron-Canton, OH",2656024.00,2067738.00,588286.00
+"Clovis-Portales, NM",52983.00,38705.00,14278.00
+"Columbia-Moberly-Mexico, MO",198880.00,141806.00,57074.00
+"Columbia-Orangeburg-Newberry, SC",724695.00,569020.00,155675.00
+"Columbus-Auburn-Opelika, GA-AL",357112.00,248550.00,108562.00
+"Columbus-Marion-Zanesville, OH",1881580.00,1366776.00,514804.00
+"Columbus-West Point, MS",60860.00,43985.00,16875.00
+"Corpus Christi-Kingsville-Alice, TX",346658.00,249718.00,96940.00
+"Dallas-Fort Worth, TX-OK",5898067.00,4150217.00,1747850.00
+"Davenport-Moline, IA-IL",370217.00,297995.00,72222.00
+"Dayton-Springfield-Kettering, OH",840000.00,646954.00,193046.00
+"Denver-Aurora, CO",2874021.00,2118618.00,755403.00
+"DeRidder-Fort Polk South, LA",61533.00,44322.00,17211.00
+"Des Moines-Ames-West Des Moines, IA",717067.00,562650.00,154417.00
+"Detroit-Warren-Ann Arbor, MI",3806550.00,3059221.00,747329.00
+"Dixon-Sterling, IL",71284.00,59705.00,11579.00
+"Dothan-Ozark, AL",152359.00,115992.00,36367.00
+"Eau Claire-Menomonie, WI",176869.00,134205.00,42664.00
+"Edwards-Glenwood Springs, CO",114095.00,82967.00,31128.00
+"Elmira-Corning, NY",127366.00,102058.00,25308.00
+"El Paso-Las Cruces, TX-NM",750477.00,543837.00,206640.00
+"Erie-Meadville, PA",239459.00,195072.00,44387.00
+"Fargo-Wahpeton, ND-MN",213725.00,147019.00,66706.00
+"Fayetteville-Sanford-Lumberton, NC",638101.00,466854.00,171247.00
+"Fort Wayne-Huntington-Auburn, IN",508835.00,416391.00,92444.00
+"Fresno-Madera-Hanford, CA",830471.00,537714.00,292757.00
+"Gainesville-Lake City, FL",296863.00,205346.00,91517.00
+"Grand Rapids-Kentwood-Muskegon, MI",1034684.00,838303.00,196381.00
+"Green Bay-Shawano, WI",294277.00,232514.00,61763.00
+"Greensboro--Winston-Salem--High Point, NC",1408713.00,1053620.00,355093.00
+"Greenville-Kinston-Washington, NC",217529.00,144313.00,73216.00
+"Greenville-Spartanburg-Anderson, SC",1210000.00,958137.00,251863.00
+"Harrisburg-York-Lebanon, PA",995511.00,800495.00,195016.00
+"Harrisonburg-Staunton, VA",214684.00,156910.00,57774.00
+"Hartford-East Hartford, CT",1059801.00,831523.00,228278.00
+"Hattiesburg-Laurel, MS",189906.00,146858.00,43048.00
+"Hot Springs-Malvern, AR",107205.00,85714.00,21491.00
+"Houston-The Woodlands, TX",5117426.00,3619451.00,1497975.00
+"Huntsville-Decatur, AL",541898.00,430684.00,111214.00
+"Idaho Falls-Rexburg-Blackfoot, ID",207800.00,161510.00,46290.00
+"Indianapolis-Carmel-Muncie, IN",1870508.00,1456205.00,414303.00
+"Ithaca-Cortland, NY",96212.00,67176.00,29036.00
+"Jackson-Brownsville, TN",149497.00,113405.00,36092.00
+"Jackson-Vicksburg-Brookhaven, MS",484175.00,373915.00,110260.00
+"Jacksonville-St. Marys-Palatka, FL-GA",1301212.00,988575.00,312637.00
+"Johnson City-Kingsport-Bristol, TN-VA",451803.00,360884.00,90919.00
+"Johnstown-Somerset, PA",151875.00,130225.00,21650.00
+"Jonesboro-Paragould, AR",133849.00,98225.00,35624.00
+"Joplin-Miami, MO-OK",160029.00,121176.00,38853.00
+"Kalamazoo-Battle Creek-Portage, MI",368498.00,291965.00,76533.00
+"Kansas City-Overland Park-Kansas City, MO-KS",1931675.00,1441729.00,489946.00
+"Kennewick-Richland-Walla Walla, WA",283664.00,221961.00,61703.00
+"Kerrville-Fredericksburg, TX",62050.00,51366.00,10684.00
+"Knoxville-Morristown-Sevierville, TN",999214.00,779196.00,220018.00
+"Kokomo-Peru, IN",89519.00,74028.00,15491.00
+"Lafayette-Opelousas-Morgan City, LA",403173.00,310493.00,92680.00
+"Lafayette-West Lafayette-Frankfort, IN",198698.00,141790.00,56908.00
+"Lake Charles-Jennings, LA",162278.00,129388.00,32890.00
+"Las Vegas-Henderson, NV",1545518.00,1040424.00,505094.00
+"Lexington-Fayette--Richmond--Frankfort, KY",566249.00,403170.00,163079.00
+"Lima-Van Wert-Celina, OH",174232.00,143488.00,30744.00
+"Lincoln-Beatrice, NE",276125.00,195181.00,80944.00
+"Little Rock-North Little Rock, AR",678833.00,501379.00,177454.00
+"Los Angeles-Long Beach, CA",12194568.00,7575587.00,4618981.00
+"Louisville/Jefferson County--Elizabethtown--Bardstown, KY-IN",1170775.00,923865.00,246910.00
+"Lubbock-Plainview-Levelland, TX",277481.00,178814.00,98667.00
+"Macon-Bibb County--Warner Robins, GA",328551.00,238812.00,89739.00
+"Madison-Janesville-Beloit, WI",709459.00,525605.00,183854.00
+"Mankato-New Ulm, MN",102362.00,76938.00,25424.00
+"Mansfield-Ashland-Bucyrus, OH",166589.00,131828.00,34761.00
+"Marinette-Iron Mountain, WI-MI",85095.00,75627.00,9468.00
+"Mayagüez-San Germán, PR",136881.00,95264.00,41617.00
+"McAllen-Edinburg, TX",563742.00,425201.00,138541.00
+"Medford-Grants Pass, OR",263698.00,192618.00,71080.00
+"Memphis-Forrest City, TN-MS-AR",958041.00,680559.00,277482.00
+"Miami-Port St. Lucie-Fort Lauderdale, FL",4411312.00,3048902.00,1362410.00
+"Midland-Odessa, TX",257139.00,190771.00,66368.00
+"Milwaukee-Racine-Waukesha, WI",1453961.00,1077511.00,376450.00
+"Minneapolis-St. Paul, MN-WI",3035212.00,2439220.00,595992.00
+"Mobile-Daphne-Fairhope, AL",516703.00,403314.00,113389.00
+"Monroe-Ruston, LA",171439.00,118264.00,53175.00
+"Montgomery-Selma-Alexander City, AL",359294.00,279714.00,79580.00
+"Morgantown-Fairmont, WV",138850.00,102198.00,36652.00
+"Moses Lake-Othello, WA",93895.00,69819.00,24076.00
+"Mount Pleasant-Alma, MI",74751.00,55391.00,19360.00
+"Myrtle Beach-Conway, SC-NC",480704.00,399897.00,80807.00
+"Nashville-Davidson--Murfreesboro, TN",1751600.00,1291758.00,459842.00
+"New Bern-Morehead City, NC",161609.00,129661.00,31948.00
+"New Orleans-Metairie-Hammond, LA-MS",986924.00,765167.00,221757.00
+"New York-Newark, NY-NJ-CT-PA",11429584.00,8536128.00,2893456.00
+"North Port-Sarasota, FL",841315.00,669778.00,171537.00
+"Oklahoma City-Shawnee, OK",1122512.00,814948.00,307564.00
+"Omaha-Council Bluffs-Fremont, NE-IA",769626.00,580709.00,188917.00
+"Orlando-Lakeland-Deltona, FL",3038420.00,2215897.00,822523.00
+"Paducah-Mayfield, KY-IL",103315.00,88262.00,15053.00
+"Parkersburg-Marietta-Vienna, WV-OH",122695.00,102757.00,19938.00
+"Pensacola-Ferry Pass, FL-AL",403465.00,310063.00,93402.00
+"Philadelphia-Reading-Camden, PA-NJ-DE-MD",4871664.00,3836437.00,1035227.00
+"Phoenix-Mesa, AZ",3634715.00,2665397.00,969318.00
+"Pittsburgh-New Castle-Weirton, PA-OH-WV",1904918.00,1544841.00,360077.00
+"Ponce-Yauco-Coamo, PR",217672.00,171367.00,46305.00
+"Portland-Lewiston-South Portland, ME",520609.00,419553.00,101056.00
+"Portland-Vancouver-Salem, OR-WA",2461212.00,1778910.00,682302.00
+"Pueblo-Cañon City, CO",171592.00,135752.00,35840.00
+"Pullman-Moscow, WA-ID",69411.00,44609.00,24802.00
+"Quincy-Hannibal, IL-MO",90832.00,77219.00,13613.00
+"Raleigh-Durham-Cary, NC",1634111.00,1217912.00,416199.00
+"Rapid City-Spearfish, SD",149258.00,118810.00,30448.00
+"Redding-Red Bluff, CA",192592.00,145120.00,47472.00
+"Reno-Carson City-Fernley, NV",536989.00,389679.00,147310.00
+"Richmond-Connersville, IN",71230.00,57054.00,14176.00
+"Rochester-Austin, MN",213013.00,178146.00,34867.00
+"Rochester-Batavia-Seneca Falls, NY",825697.00,650874.00,174823.00
+"Rockford-Freeport-Rochelle, IL",314911.00,246634.00,68277.00
+"Rocky Mount-Wilson-Roanoke Rapids, NC",237812.00,168961.00,68851.00
+"Sacramento-Roseville, CA",1968973.00,1392908.00,576065.00
+"Saginaw-Midland-Bay City, MI",287812.00,241950.00,45862.00
+"St. Louis-St. Charles-Farmington, MO-IL",2193638.00,1744892.00,448746.00
+"Salisbury-Cambridge, MD-DE",369811.00,303847.00,65964.00
+"Salt Lake City-Provo-Orem, UT",2029297.00,1588021.00,441276.00
+"San Antonio-New Braunfels-Pearsall, TX",1820375.00,1328616.00,491759.00
+"San Jose-San Francisco-Oakland, CA",6430566.00,4308004.00,2122562.00
+"San Juan-Bayamón, PR",1464290.00,1088894.00,375396.00
+"Savannah-Hinesville-Statesboro, GA",439926.00,298907.00,141019.00
+"Scottsboro-Fort Payne, AL",100761.00,81234.00,19527.00
+"Seattle-Tacoma, WA",3714321.00,2702573.00,1011748.00
+"Shreveport-Bossier City-Minden, LA",288946.00,212336.00,76610.00
+"South Bend-Elkhart-Mishawaka, IN-MI",572031.00,458129.00,113902.00
+"Spokane-Spokane Valley-Coeur d'Alene, WA-ID",629964.00,477867.00,152097.00
+"Springfield-Jacksonville-Lincoln, IL",227128.00,185538.00,41590.00
+"State College-DuBois, PA",167943.00,128675.00,39268.00
+"Syracuse-Auburn, NY",487748.00,388797.00,98951.00
+"Toledo-Findlay-Tiffin, OH",654768.00,501942.00,152826.00
+"Tucson-Nogales, AZ",807083.00,594162.00,212921.00
+"Tulsa-Muskogee-Bartlesville, OK",857060.00,642428.00,214632.00
+"Tupelo-Corinth, MS",157751.00,123890.00,33861.00
+"Tyler-Jacksonville, TX",192976.00,152322.00,40654.00
+"Victoria-Port Lavaca, TX",87327.00,68176.00,19151.00
+"Virginia Beach-Norfolk, VA-NC",1438093.00,1066072.00,372021.00
+"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",6762108.00,5191879.00,1570229.00
+"Wausau-Stevens Point-Wisconsin Rapids, WI",257278.00,209671.00,47607.00
+"Wichita-Winfield, KS",529782.00,407353.00,122429.00
+"Williamsport-Lock Haven, PA",112863.00,94296.00,18567.00
+"Youngstown-Warren, OH-PA",488277.00,387920.00,100357.00
