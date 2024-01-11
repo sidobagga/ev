@@ -1,0 +1,9 @@
+config.json
+{
+    "DATA_FOLDER": "./data/",
+    "CSA_SHAPEFILE_PATH": "./data/CSA/cb_2018_us_csa_5m.shp",
+    "BA_SHAPEFILE_PATH": "./data/Control_Areas/Control_Areas.shp",
+    "EV_CHARGERS_PATH": "./data/evchargers_census/Data/Electric_and_Alternative_Fuel_Charging_Stations.csv",
+    "POPULATION_DATA_URL": "https://www2.census.gov/programs-surveys/popest/datasets/2020-2022/metro/totals/csa-est2022.csv",
+    "ACS_DATA_PATH": "./data/evchargers_census/Data/ACS_Data.csv"
+}
